@@ -1,0 +1,16 @@
+{
+  "root": true,
+  "api": {
+    "projectId": "81rgze7z",
+    "dataset": "production"
+  },
+  "project": {
+    "name": "jpm-portfolio"
+  },
+  "parts": [
+    {
+      "implements": "part:@sanity/base/tool",
+      "path": "./index.js"
+    }
+  ]
+}
